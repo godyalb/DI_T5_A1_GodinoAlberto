@@ -1,0 +1,815 @@
+Pedidos por documento,,,,,,
+Documento ,,0,,,,
+,Laura,,,Steel,,
+,429 Seventh Av.,,,Dallas,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Telephone Shoe,,12,12.6
+1,,,Telephone Iron,,19,18.6
+2,,,Ice Tea Iron,,3,26.7
+3,,,Chair Shoe,,9,37.2
+4,,,Ice Tea Iron,,1,26.7
+5,,,Clock Ice Tea,,15,25.2
+6,,,Ice Tea Shoe,,9,29.1
+7,,,Telephone Shoe,,10,12.6
+8,,,Iron Iron,,23,8.1
+9,,,Telephone Shoe,,4,11.4
+10,,,Ice Tea Shoe,,8,19.2
+11,,,Clock Ice Tea,,4,25.2
+12,,,Chair Shoe,,11,37.2
+Documento ,,0,,,,
+,Mary,,,King,,
+,491 College Av.,,,Oslo,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Shoe Clock,,8,4.2
+1,,,Iron Iron,,9,8.1
+2,,,Ice Tea Ice Tea,,6,16.5
+3,,,Clock Ice Tea,,8,32.4
+4,,,Ice Tea Shoe,,16,29.1
+5,,,Shoe Shoe,,9,24.3
+6,,,Shoe Shoe,,19,24.3
+Documento ,,0,,,,
+,Julia,,,Heiniger,,
+,358 College Av.,,,Boston,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Ice Tea Shoe,,18,19.2
+1,,,Shoe Shoe,,3,24.3
+2,,,Telephone Iron,,9,13.2
+3,,,Ice Tea Ice Tea,,13,16.5
+4,,,Clock Ice Tea,,18,32.4
+5,,,Shoe Iron,,4,34.8
+6,,,Telephone Clock,,8,14.1
+7,,,Shoe Iron,,5,34.8
+8,,,Ice Tea Shoe,,2,23.1
+9,,,Chair Clock,,7,25.8
+10,,,Iron Iron,,11,3.3
+11,,,Iron Chair,,21,29.7
+12,,,Chair Chair,,15,17.1
+13,,,Clock Ice Tea,,1,25.2
+14,,,Clock Clock,,19,31.5
+15,,,Iron Iron,,18,8.1
+16,,,Ice Tea Iron,,24,4.8
+Documento ,,0,,,,
+,Julia,,,Clancy,,
+,18 Seventh Av.,,,Seattle,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Telephone Iron,,21,13.2
+1,,,Chair Shoe,,20,37.2
+2,,,Iron Iron,,3,3.3
+3,,,Iron Iron,,22,8.1
+4,,,Ice Tea Telephone,,12,30.0
+5,,,Shoe Iron,,10,34.8
+6,,,Telephone Clock,,18,27.0
+7,,,Shoe Shoe,,4,37.8
+8,,,Iron Iron,,9,3.3
+9,,,Chair Telephone,,17,16.8
+10,,,Telephone Ice Tea,,17,30.6
+11,,,Telephone Shoe,,11,12.6
+12,,,Clock Ice Tea,,22,30.9
+13,,,Clock Ice Tea,,2,30.9
+14,,,Clock Ice Tea,,22,33.0
+15,,,Shoe Chair,,18,11.4
+16,,,Ice Tea Ice Tea,,11,16.5
+17,,,Shoe Iron,,17,34.8
+Documento ,,0,,,,
+,Bill,,,Sommer,,
+,362 - 20th Ave.,,,Olten,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Clock Iron,,9,4.5
+1,,,Telephone Shoe,,15,11.4
+2,,,Clock Ice Tea,,23,30.9
+3,,,Shoe Chair,,20,11.4
+4,,,Clock Telephone,,18,25.8
+5,,,Clock Shoe,,24,14.1
+Documento ,,0,,,,
+,Julia,,,May,,
+,33 Upland Pl.,,,Seattle,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Clock Telephone,,5,25.8
+1,,,Clock Telephone,,23,25.8
+2,,,Ice Tea Telephone,,18,30.0
+3,,,Chair Shoe,,12,10.8
+4,,,Clock Iron,,14,28.5
+5,,,Ice Tea Clock,,15,9.3
+6,,,Telephone Shoe,,9,12.6
+7,,,Telephone Clock,,4,37.2
+8,,,Ice Tea Telephone,,3,30.0
+9,,,Clock Shoe,,9,14.1
+10,,,Clock Iron,,18,4.5
+11,,,Clock Ice Tea,,23,32.4
+12,,,Ice Tea Clock,,15,33.9
+13,,,Chair Clock,,17,25.8
+Documento ,,0,,,,
+,Susanne,,,Heiniger,,
+,86 - 20th Ave.,,,Dallas,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Ice Tea Chair,,20,14.1
+1,,,Clock Ice Tea,,21,32.4
+2,,,Shoe Chair,,8,11.4
+3,,,Shoe Iron,,2,34.8
+4,,,Ice Tea Telephone,,20,7.2
+5,,,Telephone Iron,,20,18.6
+6,,,Clock Shoe,,22,14.1
+7,,,Shoe Shoe,,10,37.8
+8,,,Clock Ice Tea,,19,30.9
+9,,,Ice Tea Ice Tea,,2,16.5
+10,,,Ice Tea Shoe,,13,29.1
+11,,,Ice Tea Ice Tea,,1,14.4
+Documento ,,0,,,,
+,James,,,Clancy,,
+,195 Upland Pl.,,,Oslo,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Telephone Clock,,16,14.1
+1,,,Shoe Chair,,12,11.4
+2,,,Telephone Iron,,17,34.5
+3,,,Shoe Iron,,2,34.8
+4,,,Telephone Clock,,13,37.2
+5,,,Chair Shoe,,10,10.8
+6,,,Telephone Iron,,4,18.6
+7,,,Telephone Clock,,22,37.2
+8,,,Iron Chair,,19,29.7
+9,,,Clock Telephone,,21,25.8
+10,,,Telephone Shoe,,1,12.6
+11,,,Ice Tea Ice Tea,,13,16.5
+12,,,Shoe Clock,,16,4.2
+13,,,Clock Iron,,23,28.5
+14,,,Ice Tea Iron,,14,26.7
+15,,,Chair Shoe,,17,10.8
+16,,,Telephone Shoe,,12,12.6
+17,,,Shoe Clock,,1,4.2
+18,,,Shoe Chair,,5,11.4
+Documento ,,0,,,,
+,Andrew,,,Smith,,
+,254 College Av.,,,New York,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Chair Iron,,15,38.4
+1,,,Ice Tea Ice Tea,,16,14.4
+2,,,Telephone Iron,,8,13.2
+3,,,Clock Ice Tea,,16,30.9
+4,,,Ice Tea Chair,,8,14.1
+5,,,Chair Shoe,,18,10.8
+6,,,Ice Tea Chair,,19,14.1
+7,,,Ice Tea Chair,,5,14.7
+8,,,Clock Ice Tea,,7,32.4
+9,,,Chair Chair,,23,17.1
+Documento ,,0,,,,
+,Andrew,,,Heiniger,,
+,347 College Av.,,,Lyon,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Iron Ice Tea,,8,27.0
+1,,,Chair Clock,,21,25.8
+2,,,Chair Telephone,,12,16.8
+3,,,Ice Tea Shoe,,14,19.2
+4,,,Ice Tea Iron,,16,4.8
+5,,,Ice Tea Chair,,2,14.7
+6,,,Chair Clock,,10,25.8
+7,,,Telephone Clock,,22,37.2
+8,,,Chair Shoe,,11,10.8
+9,,,Telephone Clock,,6,27.0
+10,,,Clock Ice Tea,,11,32.4
+11,,,Clock Ice Tea,,16,25.2
+12,,,Shoe Shoe,,23,24.3
+13,,,Iron Chair,,13,29.7
+14,,,Ice Tea Chair,,8,14.1
+15,,,Clock Clock,,23,31.5
+16,,,Chair Shoe,,10,10.8
+17,,,Telephone Clock,,17,27.0
+18,,,Chair Chair,,12,38.1
+19,,,Clock Clock,,23,31.5
+Documento ,,0,,,,
+,James,,,Sommer,,
+,333 Upland Pl.,,,Olten,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Ice Tea Telephone,,1,30.0
+1,,,Iron Chair,,17,27.3
+2,,,Telephone Shoe,,9,12.6
+3,,,Ice Tea Clock,,1,9.3
+4,,,Telephone Ice Tea,,24,30.6
+5,,,Clock Clock,,24,35.4
+6,,,Chair Clock,,14,25.8
+7,,,Ice Tea Shoe,,13,19.2
+8,,,Iron Iron,,11,9.9
+9,,,Clock Clock,,10,35.4
+0,,,Iron Ice Tea,,10,27.0
+1,,,Chair Chair,,21,17.1
+2,,,Iron Iron,,3,8.1
+3,,,Clock Iron,,21,28.5
+4,,,Ice Tea Iron,,16,26.7
+5,,,Ice Tea Ice Tea,,2,16.5
+6,,,Iron Iron,,12,8.1
+7,,,Clock Clock,,22,31.5
+8,,,Ice Tea Telephone,,1,30.0
+Documento ,,0,,,,
+,Julia,,,Heiniger,,
+,358 College Av.,,,Boston,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Chair Shoe,,24,37.2
+1,,,Clock Ice Tea,,19,30.9
+2,,,Ice Tea Chair,,5,14.7
+3,,,Iron Iron,,18,8.1
+4,,,Ice Tea Telephone,,11,30.0
+5,,,Clock Shoe,,17,14.1
+6,,,Ice Tea Telephone,,15,7.2
+7,,,Clock Clock,,7,31.5
+8,,,Clock Clock,,2,31.5
+9,,,Shoe Shoe,,22,24.3
+10,,,Ice Tea Clock,,19,9.3
+11,,,Clock Iron,,16,4.5
+12,,,Telephone Clock,,12,27.0
+13,,,Ice Tea Iron,,21,4.8
+14,,,Shoe Shoe,,11,24.3
+15,,,Iron Iron,,16,9.9
+16,,,Iron Iron,,9,8.1
+17,,,Ice Tea Telephone,,15,7.2
+18,,,Clock Telephone,,4,25.8
+Documento ,,0,,,,
+,Mary,,,Karsen,,
+,202 College Av.,,,Chicago,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Ice Tea Shoe,,10,29.1
+1,,,Chair Shoe,,1,37.2
+2,,,Telephone Clock,,20,27.0
+3,,,Clock Iron,,2,28.5
+4,,,Shoe Shoe,,21,37.8
+5,,,Iron Iron,,19,9.9
+6,,,Ice Tea Ice Tea,,8,16.5
+7,,,Chair Telephone,,24,16.8
+8,,,Clock Clock,,11,31.5
+9,,,Chair Shoe,,10,10.8
+10,,,Iron Ice Tea,,24,27.0
+11,Telephone Iron,3,18.6
+12,Clock Ice Tea,3,33.0
+13,Telephone Ice Tea,20,30.6
+14,Chair Shoe,12,37.2
+15,Iron Iron,20,8.1
+16,Iron Iron,23,9.9
+17,Clock Iron,18,28.5
+18,Iron Iron,16,8.1
+19,Iron Chair,18,29.7
+20,Clock Clock,19,35.4
+21,Shoe Clock,1,4.2
+0,Iron Chair,18,29.7
+1,Clock Telephone,22,25.8
+2,Ice Tea Chair,18,14.1
+3,Chair Iron,11,38.4
+4,Clock Ice Tea,17,30.9
+5,Telephone Iron,8,13.2
+6,Shoe Shoe,18,37.8
+7,Telephone Clock,4,14.1
+8,Shoe Chair,7,11.4
+9,Telephone Clock,16,27.0
+10,Ice Tea Ice Tea,16,14.4
+11,Shoe Shoe,15,24.3
+12,Ice Tea Shoe,20,19.2
+13,Telephone Iron,23,13.2
+0,Clock Ice Tea,12,33.0
+1,Telephone Clock,21,27.0
+2,Chair Shoe,6,10.8
+Documento ,,0,,,,
+,Janet,,,May,,
+,396 Seventh Av.,,,Oslo,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Chair Clock,,15,25.8
+1,,,Ice Tea Iron,,20,4.8
+2,,,Ice Tea Telephone,,15,30.0
+3,,,Iron Iron,,3,8.1
+4,,,Telephone Ice Tea,,24,30.6
+5,,,Telephone Iron,,15,13.2
+6,,,Ice Tea Ice Tea,,7,14.4
+7,,,Ice Tea Clock,,17,33.9
+8,,,Telephone Clock,,17,27.0
+9,,,Telephone Iron,,10,13.2
+10,,,Telephone Clock,,8,14.1
+11,,,Chair Shoe,,7,10.8
+12,,,Chair Clock,,2,25.8
+13,,,Ice Tea Telephone,,1,30.0
+14,,,Iron Iron,,19,8.1
+15,,,Clock Ice Tea,,3,25.2
+0,,,Ice Tea Shoe,,8,29.1
+1,,,Ice Tea Ice Tea,,19,16.5
+2,,,Ice Tea Ice Tea,,11,14.4
+3,,,Chair Shoe,,4,10.8
+4,,,Shoe Chair,,2,11.4
+5,,,Ice Tea Ice Tea,,1,14.4
+6,,,Telephone Clock,,6,14.1
+7,,,Ice Tea Chair,,15,14.7
+8,,,Iron Iron,,8,3.3
+9,,,Ice Tea Clock,,15,33.9
+10,,,Telephone Ice Tea,,12,30.6
+11,,,Iron Ice Tea,,10,27.0
+12,,,Iron Iron,,16,9.9
+13,,,Clock Ice Tea,,5,30.9
+14,,,Chair Clock,,2,25.8
+15,,,Telephone Shoe,,10,11.4
+16,,,Ice Tea Clock,,16,33.9
+17,,,Telephone Shoe,,5,12.6
+18,,,Clock Clock,,9,35.4
+19,,,Ice Tea Clock,,12,9.3
+Documento ,,0,,,,
+,Sylvia,,,Ringer,,
+,365 College Av.,,,Dallas,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Clock Iron,,1,28.5
+1,,,Iron Chair,,12,27.3
+2,,,Shoe Clock,,12,4.2
+3,,,Ice Tea Ice Tea,,8,16.5
+4,,,Clock Iron,,6,4.5
+5,,,Ice Tea Chair,,6,14.1
+6,,,Chair Telephone,,4,16.8
+7,,,Ice Tea Chair,,14,14.1
+8,,,Chair Shoe,,24,37.2
+9,,,Telephone Clock,,2,37.2
+10,,,Chair Iron,,18,38.4
+11,,,Shoe Iron,,8,34.8
+12,,,Clock Shoe,,12,14.1
+13,,,Telephone Iron,,12,18.6
+14,,,Clock Iron,,20,4.5
+15,,,Ice Tea Ice Tea,,20,14.4
+16,,,Ice Tea Telephone,,12,7.2
+17,,,Ice Tea Clock,,1,33.9
+18,,,Telephone Ice Tea,,1,30.6
+Documento ,,0,,,,
+,James,,,Schneider,,
+,277 Seventh Av.,,,Berne,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Clock Ice Tea,,7,25.2
+1,,,Ice Tea Telephone,,2,7.2
+2,,,Ice Tea Shoe,,22,19.2
+3,,,Iron Iron,,23,3.3
+4,,,Ice Tea Iron,,24,4.8
+Documento ,,0,,,,
+,Susanne,,,Heiniger,,
+,86 - 20th Ave.,,,Dallas,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Ice Tea Iron,,15,26.7
+1,,,Chair Telephone,,6,16.8
+2,,,Chair Shoe,,22,10.8
+3,,,Shoe Shoe,,14,24.3
+4,,,Shoe Iron,,13,34.8
+5,,,Ice Tea Clock,,14,33.9
+6,,,Ice Tea Telephone,,2,30.0
+7,,,Clock Telephone,,9,25.8
+8,,,Ice Tea Ice Tea,,18,14.4
+9,,,Clock Ice Tea,,8,25.2
+10,,,Shoe Shoe,,11,24.3
+11,,,Ice Tea Chair,,8,14.1
+Documento ,,0,,,,
+,Andrew,,,Miller,,
+,288 - 20th Ave.,,,Seattle,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Clock Telephone,,10,25.8
+1,,,Clock Ice Tea,,19,32.4
+2,,,Ice Tea Telephone,,17,7.2
+3,,,Shoe Iron,,13,34.8
+4,,,Iron Iron,,22,3.3
+5,,,Telephone Iron,,18,34.5
+6,,,Shoe Shoe,,7,37.8
+7,,,Ice Tea Clock,,9,33.9
+8,,,Ice Tea Ice Tea,,19,14.4
+9,,,Telephone Shoe,,17,11.4
+10,,,Ice Tea Ice Tea,,14,16.5
+11,,,Ice Tea Telephone,,11,30.0
+0,,,Clock Telephone,,6,25.8
+1,,,Shoe Iron,,11,34.8
+2,,,Clock Ice Tea,,20,25.2
+3,,,Iron Iron,,5,9.9
+4,,,Clock Clock,,21,35.4
+5,,,Chair Shoe,,5,10.8
+6,,,Ice Tea Shoe,,11,19.2
+7,,,Chair Chair,,6,17.1
+8,,,Chair Chair,,2,38.1
+9,,,Shoe Chair,,1,11.4
+Documento ,,0,,,,
+,John,,,Steel,,
+,276 Upland Pl.,,,Dallas,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Clock Clock,,22,31.5
+1,,,Shoe Shoe,,8,37.8
+2,,,Iron Chair,,18,27.3
+3,,,Shoe Clock,,19,4.2
+4,,,Shoe Chair,,19,11.4
+5,,,Clock Iron,,14,28.5
+6,,,Ice Tea Shoe,,1,29.1
+7,,,Ice Tea Shoe,,3,23.1
+8,,,Ice Tea Chair,,17,14.7
+9,,,Ice Tea Telephone,,18,30.0
+10,,,Ice Tea Shoe,,18,19.2
+11,,,Clock Ice Tea,,8,30.9
+12,,,Ice Tea Shoe,,17,19.2
+13,,,Telephone Iron,,17,18.6
+14,,,Ice Tea Ice Tea,,2,14.4
+15,,,Telephone Clock,,17,27.0
+16,,,Ice Tea Clock,,11,33.9
+Documento ,,0,,,,
+,Bill,,,Clancy,,
+,319 Upland Pl.,,,Seattle,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Telephone Clock,,14,14.1
+1,,,Ice Tea Clock,,18,9.3
+2,,,Clock Ice Tea,,10,32.4
+3,,,Clock Ice Tea,,23,33.0
+4,,,Ice Tea Chair,,17,14.1
+5,,,Telephone Shoe,,16,11.4
+6,,,Shoe Clock,,3,4.2
+7,,,Telephone Shoe,,13,12.6
+8,,,Clock Clock,,18,35.4
+9,,,Chair Chair,,8,17.1
+10,,,Telephone Iron,,4,34.5
+11,,,Chair Shoe,,4,37.2
+12,,,Iron Iron,,8,8.1
+13,,,Ice Tea Chair,,21,14.1
+14,,,Chair Shoe,,13,37.2
+15,,,Ice Tea Shoe,,17,23.1
+Documento ,,0,,,,
+,Bob,,,Ringer,,
+,371 College Av.,,,Olten,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Clock Clock,,15,35.4
+1,,,Telephone Clock,,13,14.1
+2,,,Telephone Clock,,8,27.0
+3,,,Ice Tea Ice Tea,,4,16.5
+4,,,Ice Tea Iron,,10,26.7
+5,,,Telephone Ice Tea,,5,30.6
+6,,,Chair Chair,,18,17.1
+7,,,Ice Tea Shoe,,8,29.1
+8,,,Clock Ice Tea,,3,32.4
+Documento ,,0,,,,
+,Bob,,,Sommer,,
+,509 College Av.,,,Seattle,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Iron Chair,,16,29.7
+1,,,Telephone Clock,,21,14.1
+2,,,Iron Chair,,7,27.3
+3,,,Ice Tea Shoe,,3,29.1
+4,,,Ice Tea Clock,,7,9.3
+5,,,Clock Ice Tea,,4,32.4
+6,,,Telephone Shoe,,23,12.6
+7,,,Ice Tea Shoe,,16,19.2
+8,,,Shoe Clock,,13,4.2
+9,,,Chair Shoe,,23,37.2
+10,,,Chair Iron,,16,38.4
+11,,,Chair Clock,,3,25.8
+12,,,Telephone Iron,,20,34.5
+13,,,Telephone Clock,,10,27.0
+14,,,Shoe Shoe,,6,37.8
+15,,,Ice Tea Clock,,6,33.9
+16,,,Shoe Iron,,4,34.8
+0,,,Chair Shoe,,15,10.8
+1,,,Iron Ice Tea,,15,27.0
+2,,,Ice Tea Ice Tea,,1,16.5
+Documento ,,0,,,,
+,George,,,Karsen,,
+,412 College Av.,,,Chicago,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Telephone Shoe,,13,11.4
+1,,,Ice Tea Chair,,13,14.1
+2,,,Ice Tea Ice Tea,,22,14.4
+3,,,Ice Tea Chair,,3,14.7
+4,,,Iron Ice Tea,,17,27.0
+5,,,Iron Iron,,4,3.3
+6,,,Iron Chair,,16,27.3
+7,,,Clock Iron,,8,4.5
+8,,,Clock Iron,,6,4.5
+Documento ,,0,,,,
+,Andrew,,,May,,
+,172 Seventh Av.,,,New York,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Iron Chair,,17,27.3
+1,,,Clock Ice Tea,,12,32.4
+2,,,Clock Ice Tea,,23,33.0
+3,,,Telephone Shoe,,21,12.6
+4,,,Ice Tea Shoe,,7,19.2
+5,,,Ice Tea Telephone,,13,7.2
+6,,,Ice Tea Shoe,,16,19.2
+7,,,Clock Clock,,1,35.4
+8,,,Telephone Shoe,,6,11.4
+Documento ,,0,,,,
+,Laura,,,Ringer,,
+,38 College Av.,,,New York,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Telephone Iron,,7,18.6
+1,,,Ice Tea Shoe,,19,29.1
+2,,,Telephone Ice Tea,,18,30.6
+3,,,Iron Chair,,2,27.3
+4,,,Chair Iron,,2,38.4
+5,,,Telephone Clock,,23,14.1
+6,,,Telephone Iron,,23,18.6
+Documento ,,0,,,,
+,Bill,,,Ott,,
+,250 - 20th Ave.,,,Berne,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Iron Chair,,10,27.3
+1,,,Ice Tea Shoe,,23,19.2
+2,,,Ice Tea Shoe,,3,19.2
+3,,,Clock Ice Tea,,10,25.2
+4,,,Ice Tea Clock,,14,33.9
+5,,,Chair Shoe,,4,37.2
+6,,,Shoe Shoe,,16,37.8
+7,,,Clock Ice Tea,,3,32.4
+8,,,Telephone Shoe,,5,12.6
+9,,,Telephone Iron,,15,18.6
+10,,,Iron Iron,,3,8.1
+Documento ,,0,,,,
+,Janet,,,Schneider,,
+,309 - 20th Ave.,,,Oslo,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Telephone Shoe,,11,11.4
+1,,,Shoe Iron,,13,34.8
+2,,,Chair Shoe,,14,37.2
+Documento ,,0,,,,
+,Susanne,,,Miller,,
+,440 - 20th Ave.,,,Dallas,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Ice Tea Iron,,5,4.8
+1,,,Telephone Ice Tea,,21,30.6
+2,,,Ice Tea Iron,,16,4.8
+3,,,Clock Clock,,1,31.5
+4,,,Chair Shoe,,1,10.8
+5,,,Ice Tea Clock,,11,33.9
+6,,,Clock Ice Tea,,16,33.0
+7,,,Telephone Clock,,10,14.1
+8,,,Chair Chair,,15,38.1
+9,,,Chair Telephone,,5,16.8
+10,,,Chair Shoe,,9,10.8
+11,,,Clock Clock,,7,35.4
+12,,,Ice Tea Shoe,,23,29.1
+13,,,Shoe Shoe,,16,24.3
+14,,,Ice Tea Ice Tea,,13,14.4
+15,,,Clock Ice Tea,,7,32.4
+Documento ,,0,,,,
+,Mary,,,King,,
+,491 College Av.,,,Oslo,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Telephone Ice Tea,,22,30.6
+1,,,Ice Tea Shoe,,3,19.2
+2,,,Clock Iron,,22,4.5
+3,,,Ice Tea Ice Tea,,15,14.4
+4,,,Telephone Iron,,1,34.5
+5,,,Iron Ice Tea,,13,27.0
+6,,,Clock Iron,,7,28.5
+7,,,Chair Chair,,22,17.1
+8,,,Chair Chair,,1,38.1
+9,,,Ice Tea Clock,,17,33.9
+10,,,Clock Ice Tea,,16,30.9
+11,,,Ice Tea Shoe,,17,19.2
+12,,,Telephone Clock,,21,14.1
+13,,,Shoe Iron,,14,34.8
+14,,,Ice Tea Clock,,7,9.3
+Documento ,,0,,,,
+,Sylvia,,,Ringer,,
+,365 College Av.,,,Dallas,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Ice Tea Telephone,,17,30.0
+1,,,Chair Chair,,9,38.1
+2,,,Telephone Iron,,4,18.6
+3,,,Telephone Iron,,10,34.5
+4,,,Telephone Iron,,17,18.6
+5,,,Iron Chair,,5,27.3
+6,,,Clock Clock,,4,35.4
+7,,,Iron Iron,,15,9.9
+8,,,Iron Iron,,1,8.1
+9,,,Ice Tea Ice Tea,,1,16.5
+10,,,Clock Ice Tea,,11,33.0
+11,,,Ice Tea Ice Tea,,9,14.4
+12,,,Telephone Shoe,,23,12.6
+13,,,Ice Tea Ice Tea,,17,16.5
+Documento ,,0,,,,
+,Robert,,,Ott,,
+,503 Seventh Av.,,,Oslo,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Chair Clock,,13,25.8
+1,,,Ice Tea Chair,,23,14.1
+2,,,Chair Shoe,,6,37.2
+3,,,Telephone Ice Tea,,8,30.6
+4,,,Shoe Clock,,5,4.2
+5,,,Shoe Shoe,,8,24.3
+6,,,Ice Tea Shoe,,20,23.1
+7,,,Ice Tea Shoe,,19,23.1
+8,,,Ice Tea Shoe,,21,19.2
+9,,,Ice Tea Telephone,,18,7.2
+10,,,Ice Tea Iron,,11,26.7
+11,,,Ice Tea Ice Tea,,9,14.4
+Documento ,,0,,,,
+,Mary,,,Karsen,,
+,202 College Av.,,,Chicago,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Clock Ice Tea,,24,30.9
+1,,,Ice Tea Chair,,20,14.1
+2,,,Ice Tea Iron,,8,4.8
+3,,,Shoe Shoe,,7,37.8
+4,,,Telephone Clock,,20,27.0
+5,,,Chair Shoe,,14,37.2
+6,,,Chair Iron,,12,38.4
+7,,,Chair Shoe,,19,10.8
+8,,,Ice Tea Clock,,9,9.3
+9,,,Ice Tea Iron,,16,26.7
+10,,,Chair Shoe,,18,37.2
+11,,,Shoe Iron,,5,34.8
+12,,,Chair Shoe,,23,10.8
+13,,,Clock Iron,,3,28.5
+14,,,Clock Ice Tea,,3,25.2
+15,,,Clock Iron,,12,28.5
+16,,,Telephone Iron,,8,34.5
+17,,,Clock Ice Tea,,18,32.4
+18,,,Shoe Shoe,,22,37.8
+19,,,Ice Tea Ice Tea,,20,16.5
+20,,,Telephone Iron,,1,18.6
+21,,,Ice Tea Chair,,9,14.7
+Documento ,,0,,,,
+,Andrew,,,May,,
+,172 Seventh Av.,,,New York,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Clock Clock,,14,31.5
+1,,,Iron Ice Tea,,13,27.0
+2,,,Ice Tea Shoe,,8,19.2
+3,,,Telephone Iron,,19,34.5
+4,,,Iron Ice Tea,,14,27.0
+5,,,Clock Clock,,17,31.5
+6,,,Clock Clock,,19,35.4
+7,,,Ice Tea Chair,,1,14.1
+8,,,Shoe Clock,,10,4.2
+9,,,Telephone Iron,,20,34.5
+10,,,Ice Tea Shoe,,18,19.2
+11,,,Ice Tea Ice Tea,,18,16.5
+12,,,Chair Shoe,,18,37.2
+13,,,Ice Tea Clock,,7,33.9
+14,,,Ice Tea Telephone,,7,30.0
+15,,,Ice Tea Iron,,10,26.7
+16,,,Shoe Clock,,18,4.2
+17,,,Clock Iron,,4,28.5
+18,,,Clock Iron,,20,4.5
+19,,,Ice Tea Shoe,,7,19.2
+Documento ,,0,,,,
+,Laura,,,Miller,,
+,294 Seventh Av.,,,Paris,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Telephone Ice Tea,,12,30.6
+1,,,Chair Shoe,,6,10.8
+2,,,Ice Tea Shoe,,16,23.1
+3,,,Ice Tea Telephone,,17,30.0
+Documento ,,0,,,,
+,Sylvia,,,Ringer,,
+,365 College Av.,,,Dallas,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Ice Tea Clock,,24,9.3
+1,,,Iron Ice Tea,,24,27.0
+2,,,Ice Tea Shoe,,5,19.2
+3,,,Shoe Shoe,,10,37.8
+4,,,Chair Clock,,13,25.8
+5,,,Clock Iron,,18,28.5
+6,,,Clock Iron,,12,4.5
+7,,,Ice Tea Telephone,,1,7.2
+8,,,Telephone Iron,,4,13.2
+9,,,Shoe Clock,,17,4.2
+10,,,Ice Tea Chair,,11,14.7
+11,,,Telephone Iron,,2,34.5
+12,,,Telephone Shoe,,13,11.4
+13,,,Ice Tea Chair,,8,14.7
+14,,,Ice Tea Shoe,,24,19.2
+15,,,Iron Iron,,12,9.9
+16,,,Telephone Iron,,16,34.5
+17,,,Ice Tea Shoe,,20,19.2
+18,,,Iron Chair,,11,27.3
+19,,,Telephone Shoe,,23,12.6
+20,,,Ice Tea Shoe,,16,19.2
+Documento ,,0,,,,
+,Susanne,,,Heiniger,,
+,86 - 20th Ave.,,,Dallas,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Clock Clock,,24,35.4
+1,,,Ice Tea Iron,,19,26.7
+2,,,Ice Tea Iron,,2,4.8
+3,,,Chair Telephone,,20,16.8
+4,,,Ice Tea Shoe,,22,29.1
+5,,,Clock Telephone,,21,25.8
+6,,,Clock Ice Tea,,11,33.0
+7,,,Iron Iron,,18,9.9
+8,,,Clock Telephone,,22,25.8
+9,,,Shoe Shoe,,21,37.8
+10,,,Chair Shoe,,20,10.8
+11,,,Clock Clock,,15,31.5
+0,,,Clock Clock,,9,31.5
+1,,,Chair Clock,,21,25.8
+2,,,Shoe Clock,,19,4.2
+3,,,Shoe Clock,,14,4.2
+4,,,Clock Clock,,15,31.5
+Documento ,,0,,,,
+,Laura,,,Ringer,,
+,38 College Av.,,,New York,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Ice Tea Chair,,22,14.1
+1,,,Chair Clock,,19,25.8
+2,,,Telephone Clock,,15,37.2
+3,,,Ice Tea Chair,,18,14.7
+4,,,Clock Iron,,22,28.5
+5,,,Iron Chair,,6,27.3
+6,,,Chair Shoe,,1,10.8
+7,,,Telephone Iron,,15,13.2
+8,,,Ice Tea Ice Tea,,8,14.4
+9,,,Telephone Shoe,,23,12.6
+10,,,Telephone Shoe,,1,11.4
+11,,,Iron Iron,,23,3.3
+12,,,Shoe Clock,,24,4.2
+13,,,Ice Tea Ice Tea,,22,14.4
+14,,,Chair Chair,,18,38.1
+15,,,Clock Clock,,7,31.5
+16,,,Clock Ice Tea,,12,32.4
+Documento ,,0,,,,
+,Michael,,,Ott,,
+,339 College Av.,,,Boston,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Iron Chair,,20,27.3
+1,,,Chair Iron,,17,38.4
+2,,,Clock Ice Tea,,14,33.0
+3,,,Chair Chair,,14,38.1
+4,,,Clock Ice Tea,,3,25.2
+5,,,Clock Ice Tea,,22,30.9
+6,,,Telephone Iron,,15,18.6
+7,,,Iron Iron,,17,3.3
+8,,,Clock Iron,,23,4.5
+0,,,Ice Tea Ice Tea,,6,14.4
+1,,,Telephone Iron,,6,13.2
+2,,,Ice Tea Clock,,8,9.3
+3,,,Telephone Iron,,11,18.6
+4,,,Chair Chair,,14,38.1
+5,,,Iron Ice Tea,,17,27.0
+6,,,Ice Tea Shoe,,5,23.1
+7,,,Ice Tea Chair,,24,14.7
+8,,,Clock Telephone,,2,25.8
+9,,,Shoe Shoe,,18,37.8
+10,,,Clock Ice Tea,,24,30.9
+11,,,Ice Tea Telephone,,22,7.2
+12,,,Clock Iron,,13,28.5
+13,,,Ice Tea Iron,,8,26.7
+14,,,Chair Chair,,16,38.1
+Documento ,,0,,,,
+,James,,,Sommer,,
+,333 Upland Pl.,,,Olten,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Clock Clock,,21,35.4
+1,,,Clock Ice Tea,,24,25.2
+2,,,Shoe Iron,,14,34.8
+3,,,Chair Chair,,19,17.1
+4,,,Clock Ice Tea,,5,33.0
+5,,,Shoe Shoe,,9,24.3
+6,,,Clock Ice Tea,,18,30.9
+7,,,Iron Iron,,9,3.3
+8,,,Ice Tea Clock,,22,33.9
+9,,,Telephone Shoe,,4,12.6
+10,,,Telephone Iron,,24,13.2
+11,,,Chair Shoe,,4,37.2
+12,,,Chair Chair,,24,17.1
+13,,,Ice Tea Iron,,20,4.8
+14,,,Chair Shoe,,10,10.8
+15,,,Shoe Clock,,11,4.2
+16,,,Ice Tea Clock,,21,9.3
+17,,,Clock Ice Tea,,23,25.2
+Documento ,,0,,,,
+,Janet,,,May,,
+,396 Seventh Av.,,,Oslo,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Shoe Chair,,15,11.4
+1,,,Shoe Chair,,13,11.4
+2,,,Clock Ice Tea,,6,33.0
+3,,,Chair Shoe,,4,37.2
+4,,,Ice Tea Chair,,1,14.1
+5,,,Shoe Clock,,8,4.2
+6,,,Ice Tea Clock,,10,33.9
+7,,,Clock Iron,,14,4.5
+8,,,Ice Tea Shoe,,2,29.1
+9,,,Clock Iron,,9,28.5
+10,,,Iron Ice Tea,,2,27.0
+11,,,Telephone Shoe,,10,11.4
+12,,,Clock Ice Tea,,20,25.2
+13,,,Iron Chair,,8,27.3
+Documento ,,0,,,,
+,Bill,,,Ott,,
+,250 - 20th Ave.,,,Berne,,
+Linea,,,Producto,,Cantidad,Precio
+0,,,Ice Tea Chair,,23,14.7
+1,,,Shoe Shoe,,23,37.8
+2,Shoe Chair,10,11.4
+3,Telephone Ice Tea,2,30.6
+4,Clock Clock,4,31.5
+5,Chair Shoe,16,10.8
+6,Telephone Iron,17,13.2
+7,Shoe Iron,19,34.8
+8,Clock Clock,12,35.4
+9,Telephone Shoe,17,11.4
+10,Clock Ice Tea,10,30.9
+0,Chair Clock,6,25.8
+1,Iron Iron,16,9.9
+2,Chair Telephone,6,16.8
+3,Clock Ice Tea,19,33.0
+4,Ice Tea Iron,14,26.7
+5,Ice Tea Shoe,1,29.1
+6,Chair Telephone,15,16.8
+7,Ice Tea Chair,21,14.7
+8,Clock Clock,24,31.5
+9,Telephone Shoe,24,12.6
+10,Shoe Iron,16,34.8
+11,Shoe Clock,15,4.2
+12,Chair Chair,17,17.1
+13,Ice Tea Chair,22,14.7
+14,Shoe Chair,5,11.4
+15,Ice Tea Ice Tea,24,16.5
+16,Chair Shoe,18,10.8

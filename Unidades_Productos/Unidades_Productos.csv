@@ -1,0 +1,901 @@
+Cálculo de subtotales,,,,,,
+,49,3.3,,,,
+,28,5,,4,,
+,3,8,,9,,
+,3,2,,3,,
+,46,7,,9,,
+,21,4,,22,,
+,2,10,,11,,
+,19,3,,23,,
+,44,7,,17,,
+,43,11,,23,,
+,17,8,,8,,
+,,,,,Total de unidades,129
+,,,Media de unidades por pedido,,,12
+,,,Cantidad menor en un pedido,,,3
+,,,Cantidad mayor en un pedido,,,23
+,48,31.5,,,,
+,23,0,,22,,
+,48,4,,4,,
+,2,14,,19,,
+,9,19,,23,,
+,9,15,,23,,
+,41,11,,15,,
+43,15,,7,,
+13,8,,11,,
+42,4,,15,,
+12,7,,7,,
+49,8,,24,,
+12,8,,2,,
+38,0,,14,,
+42,0,,9,,
+33,3,,1,,
+11,7,,22,,
+38,5,,17,,
+,,,,Total de unidades,235
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,24
+47,26.7,,,,
+38,15,,10,,
+37,9,,16,,
+36,10,,11,,
+45,13,,8,,
+41,1,,19,,
+25,4,,10,,
+11,4,,16,,
+20,0,,15,,
+7,14,,14,,
+0,2,,3,,
+49,4,,14,,
+0,4,,1,,
+,,,,Total de unidades,137
+,,Media de unidades por pedido,,,11
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,19
+46,9.3,,,,
+12,10,,19,,
+46,16,,21,,
+17,19,,12,,
+37,8,,9,,
+5,5,,15,,
+26,4,,7,,
+24,1,,18,,
+45,2,,8,,
+40,0,,24,,
+34,14,,7,,
+10,3,,1,,
+,,,,Total de unidades,141
+,,Media de unidades por pedido,,,12
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,24
+45,27.0,,,,
+11,0,,10,,
+40,1,,24,,
+13,10,,24,,
+45,5,,17,,
+34,5,,13,,
+27,1,,15,,
+38,1,,13,,
+9,0,,8,,
+38,4,,14,,
+47,10,,2,,
+28,4,,17,,
+17,11,,10,,
+,,,,Total de unidades,167
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,2
+,,Cantidad mayor en un pedido,,,24
+44,14.4,,,,
+16,6,,7,,
+17,5,,1,,
+6,11,,1,,
+18,15,,20,,
+36,11,,9,,
+17,2,,11,,
+23,14,,2,,
+20,8,,18,,
+21,8,,19,,
+45,0,,6,,
+43,8,,8,,
+28,2,,22,,
+43,13,,22,,
+35,11,,9,,
+8,1,,16,,
+33,14,,13,,
+34,3,,15,,
+14,10,,16,,
+,,,,Total de unidades,215
+,,Media de unidades por pedido,,,11
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,22
+43,14.1,,,,
+16,10,,8,,
+7,0,,16,,
+17,6,,6,,
+14,7,,4,,
+24,0,,14,,
+30,5,,23,,
+34,12,,21,,
+33,7,,10,,
+2,6,,8,,
+26,1,,21,,
+25,1,,13,,
+,,,,Total de unidades,144
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,4
+,,Cantidad mayor en un pedido,,,23
+42,29.7,,,,
+14,0,,18,,
+13,19,,18,,
+7,8,,19,,
+2,11,,21,,
+26,0,,16,,
+9,13,,13,,
+,,,,Total de unidades,105
+,,Media de unidades por pedido,,,17
+,,Cantidad menor en un pedido,,,13
+,,Cantidad mayor en un pedido,,,21
+41,30.9,,,,
+45,10,,24,,
+17,13,,5,,
+6,8,,19,,
+46,6,,18,,
+23,11,,8,,
+37,0,,24,,
+14,4,,17,,
+44,5,,22,,
+4,2,,23,,
+12,1,,19,,
+34,10,,16,,
+3,12,,22,,
+3,13,,2,,
+48,10,,10,,
+8,3,,16,,
+,,,,Total de unidades,245
+,,Media de unidades por pedido,,,16
+,,Cantidad menor en un pedido,,,2
+,,Cantidad mayor en un pedido,,,24
+40,4.2,,,,
+1,0,,8,,
+49,11,,15,,
+38,8,,10,,
+18,2,,12,,
+7,12,,16,,
+46,15,,11,,
+7,17,,1,,
+36,4,,5,,
+42,2,,19,,
+42,3,,14,,
+23,3,,19,,
+24,6,,3,,
+40,9,,17,,
+13,21,,1,,
+26,8,,13,,
+47,5,,8,,
+43,12,,24,,
+38,16,,18,,
+,,,,Total de unidades,214
+,,Media de unidades por pedido,,,11
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,24
+39,23.1,,,,
+39,2,,16,,
+24,15,,17,,
+36,7,,19,,
+23,7,,3,,
+2,8,,2,,
+36,6,,20,,
+45,6,,5,,
+,,,,Total de unidades,82
+,,Media de unidades por pedido,,,11
+,,Cantidad menor en un pedido,,,2
+,,Cantidad mayor en un pedido,,,20
+38,32.4,,,,
+5,11,,23,,
+31,7,,3,,
+26,5,,4,,
+21,1,,19,,
+6,1,,21,,
+37,17,,18,,
+43,16,,12,,
+25,8,,3,,
+24,2,,10,,
+33,15,,7,,
+2,4,,18,,
+29,1,,12,,
+1,3,,8,,
+9,10,,11,,
+8,8,,7,,
+,,,,Total de unidades,176
+,,Media de unidades por pedido,,,11
+,,Cantidad menor en un pedido,,,3
+,,Cantidad mayor en un pedido,,,23
+37,14.1,,,,
+12,5,,17,,
+4,5,,24,,
+18,12,,12,,
+6,6,,22,,
+5,9,,9,,
+,,,,Total de unidades,84
+,,Media de unidades por pedido,,,16
+,,Cantidad menor en un pedido,,,9
+,,Cantidad mayor en un pedido,,,24
+36,4.8,,,,
+19,4,,24,,
+2,16,,24,,
+37,2,,8,,
+12,13,,21,,
+9,4,,16,,
+16,1,,20,,
+33,2,,16,,
+46,13,,20,,
+33,0,,5,,
+41,2,,2,,
+,,,,Total de unidades,156
+,,Media de unidades por pedido,,,15
+,,Cantidad menor en un pedido,,,2
+,,Cantidad mayor en un pedido,,,24
+35,11.4,,,,
+47,11,,10,,
+24,5,,16,,
+0,9,,4,,
+17,15,,10,,
+32,0,,11,,
+40,12,,13,,
+21,9,,17,,
+29,8,,6,,
+28,0,,13,,
+43,10,,1,,
+4,1,,15,,
+48,9,,17,,
+,,,,Total de unidades,133
+,,Media de unidades por pedido,,,11
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,17
+34,38.4,,,,
+14,3,,11,,
+18,10,,18,,
+26,10,,16,,
+37,6,,12,,
+30,4,,2,,
+44,1,,17,,
+8,0,,15,,
+,,,,Total de unidades,91
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,2
+,,Cantidad mayor en un pedido,,,18
+33,27.3,,,,
+29,0,,17,,
+43,5,,6,,
+10,1,,17,,
+35,5,,5,,
+40,18,,11,,
+44,0,,20,,
+31,0,,10,,
+26,2,,7,,
+30,3,,2,,
+47,13,,8,,
+28,6,,16,,
+18,1,,12,,
+23,2,,18,,
+,,,,Total de unidades,149
+,,Media de unidades por pedido,,,11
+,,Cantidad menor en un pedido,,,2
+,,Cantidad mayor en un pedido,,,20
+32,28.5,,,,
+43,4,,22,,
+11,3,,21,,
+47,9,,9,,
+37,13,,3,,
+18,0,,1,,
+37,15,,12,,
+38,17,,4,,
+45,12,,13,,
+5,4,,14,,
+40,5,,18,,
+13,3,,2,,
+13,17,,18,,
+7,13,,23,,
+23,5,,14,,
+34,6,,7,,
+,,,,Total de unidades,181
+,,Media de unidades por pedido,,,12
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,23
+31,7.2,,,,
+6,4,,20,,
+21,2,,17,,
+29,5,,13,,
+36,9,,18,,
+45,11,,22,,
+18,16,,12,,
+19,1,,2,,
+40,7,,1,,
+12,6,,15,,
+12,17,,15,,
+,,,,Total de unidades,135
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,22
+30,34.8,,,,
+2,7,,5,,
+2,5,,4,,
+32,1,,13,,
+22,1,,11,,
+48,7,,19,,
+20,4,,13,,
+6,3,,2,,
+3,17,,17,,
+26,16,,4,,
+34,13,,14,,
+7,3,,2,,
+18,11,,8,,
+21,3,,13,,
+37,11,,5,,
+46,2,,14,,
+3,5,,10,,
+49,10,,16,,
+,,,,Total de unidades,170
+,,Media de unidades por pedido,,,10
+,,Cantidad menor en un pedido,,,2
+,,Cantidad mayor en un pedido,,,19
+29,16.8,,,,
+49,6,,15,,
+3,9,,17,,
+41,3,,20,,
+20,1,,6,,
+18,6,,4,,
+49,2,,6,,
+33,9,,5,,
+13,7,,24,,
+9,2,,12,,
+,,,,Total de unidades,109
+,,Media de unidades por pedido,,,12
+,,Cantidad menor en un pedido,,,4
+,,Cantidad mayor en un pedido,,,24
+28,4.5,,,,
+18,14,,20,,
+18,4,,6,,
+28,7,,8,,
+38,18,,20,,
+44,8,,23,,
+28,8,,6,,
+5,10,,18,,
+40,6,,12,,
+34,2,,22,,
+12,11,,16,,
+47,7,,14,,
+4,0,,9,,
+,,,,Total de unidades,174
+,,Media de unidades por pedido,,,14
+,,Cantidad menor en un pedido,,,6
+,,Cantidad mayor en un pedido,,,23
+27,34.5,,,,
+35,3,,10,,
+26,12,,20,,
+37,16,,8,,
+40,11,,2,,
+40,16,,16,,
+7,2,,17,,
+38,3,,19,,
+24,10,,4,,
+34,4,,1,,
+21,5,,18,,
+38,9,,20,,
+,,,,Total de unidades,135
+,,Media de unidades por pedido,,,12
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,20
+26,37.8,,,,
+3,7,,4,,
+21,6,,7,,
+26,14,,6,,
+48,1,,23,,
+6,7,,10,,
+23,1,,8,,
+37,18,,22,,
+41,9,,21,,
+13,4,,21,,
+40,3,,10,,
+14,6,,18,,
+31,6,,16,,
+37,3,,7,,
+45,9,,18,,
+,,,,Total de unidades,191
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,4
+,,Cantidad mayor en un pedido,,,23
+25,24.3,,,,
+33,13,,16,,
+14,11,,15,,
+2,1,,3,,
+12,9,,22,,
+1,5,,9,,
+12,14,,11,,
+46,5,,9,,
+9,12,,23,,
+36,5,,8,,
+1,6,,19,,
+20,10,,11,,
+20,3,,14,,
+,,,,Total de unidades,160
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,3
+,,Cantidad mayor en un pedido,,,23
+24,10.8,,,,
+39,1,,6,,
+15,2,,6,,
+43,6,,1,,
+37,12,,23,,
+46,14,,10,,
+49,16,,18,,
+41,10,,20,,
+33,4,,1,,
+37,7,,19,,
+7,15,,17,,
+9,16,,10,,
+9,8,,11,,
+7,5,,10,,
+8,5,,18,,
+27,0,,15,,
+13,9,,10,,
+22,5,,5,,
+5,3,,12,,
+17,3,,4,,
+16,11,,7,,
+48,5,,16,,
+20,2,,22,,
+33,10,,9,,
+,,,,Total de unidades,270
+,,Media de unidades por pedido,,,11
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,23
+23,11.4,,,,
+7,18,,5,,
+48,2,,10,,
+47,1,,13,,
+14,8,,7,,
+4,3,,20,,
+3,15,,18,,
+47,0,,15,,
+22,9,,1,,
+17,4,,2,,
+7,1,,12,,
+49,14,,5,,
+6,2,,8,,
+23,4,,19,,
+,,,,Total de unidades,135
+,,Media de unidades por pedido,,,10
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,20
+22,9.9,,,,
+41,7,,18,,
+35,7,,15,,
+13,16,,23,,
+10,8,,11,,
+49,1,,16,,
+12,15,,16,,
+40,15,,12,,
+17,12,,16,,
+13,5,,19,,
+22,3,,5,,
+,,,,Total de unidades,151
+,,Media de unidades por pedido,,,15
+,,Cantidad menor en un pedido,,,5
+,,Cantidad mayor en un pedido,,,23
+21,17.1,,,,
+46,12,,24,,
+46,3,,19,,
+49,12,,17,,
+2,12,,15,,
+8,9,,23,,
+34,7,,22,,
+22,7,,6,,
+11,1,,21,,
+25,6,,18,,
+24,9,,8,,
+,,,,Total de unidades,173
+,,Media de unidades por pedido,,,17
+,,Cantidad menor en un pedido,,,6
+,,Cantidad mayor en un pedido,,,24
+20,30.0,,,,
+5,2,,18,,
+35,0,,17,,
+39,3,,17,,
+12,4,,11,,
+21,11,,11,,
+23,9,,18,,
+11,8,,1,,
+5,8,,3,,
+38,14,,7,,
+3,4,,12,,
+20,6,,2,,
+16,13,,1,,
+16,2,,15,,
+10,0,,1,,
+,,,,Total de unidades,134
+,,Media de unidades por pedido,,,9
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,18
+19,16.5,,,,
+1,2,,6,,
+49,15,,24,,
+21,10,,14,,
+2,3,,13,,
+13,6,,8,,
+11,5,,2,,
+38,11,,18,,
+17,1,,19,,
+18,3,,8,,
+27,2,,1,,
+37,19,,20,,
+7,11,,13,,
+6,9,,2,,
+35,9,,1,,
+35,13,,17,,
+25,3,,4,,
+3,16,,11,,
+,,,,Total de unidades,181
+,,Media de unidades por pedido,,,10
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,24
+18,25.8,,,,
+43,1,,19,,
+42,1,,21,,
+36,0,,13,,
+40,4,,13,,
+49,0,,6,,
+10,6,,14,,
+26,11,,3,,
+2,9,,7,,
+17,14,,2,,
+16,12,,2,,
+5,13,,17,,
+9,1,,21,,
+9,6,,10,,
+16,0,,15,,
+,,,,Total de unidades,163
+,,Media de unidades por pedido,,,11
+,,Cantidad menor en un pedido,,,2
+,,Cantidad mayor en un pedido,,,21
+17,33.0,,,,
+24,3,,23,,
+46,4,,5,,
+33,6,,16,,
+15,0,,12,,
+49,3,,19,,
+41,6,,11,,
+13,12,,3,,
+44,2,,14,,
+35,10,,11,,
+3,14,,22,,
+47,2,,6,,
+29,2,,23,,
+,,,,Total de unidades,165
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,3
+,,Cantidad mayor en un pedido,,,23
+16,29.1,,,,
+13,0,,10,,
+23,6,,1,,
+6,10,,13,,
+47,8,,2,,
+25,7,,8,,
+33,12,,23,,
+17,0,,8,,
+26,3,,3,,
+41,4,,22,,
+1,4,,16,,
+0,6,,9,,
+49,5,,1,,
+30,1,,19,,
+,,,,Total de unidades,135
+,,Media de unidades por pedido,,,10
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,23
+15,14.1,,,,
+24,13,,21,,
+20,11,,8,,
+36,1,,23,,
+8,4,,8,,
+43,0,,22,,
+8,6,,19,,
+9,14,,8,,
+18,5,,6,,
+6,0,,20,,
+38,7,,1,,
+28,1,,13,,
+24,4,,17,,
+18,7,,14,,
+14,2,,18,,
+47,4,,1,,
+37,1,,20,,
+,,,,Total de unidades,219
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,23
+14,18.6,,,,
+30,0,,7,,
+31,9,,15,,
+0,1,,19,,
+44,6,,15,,
+37,20,,1,,
+35,2,,4,,
+23,13,,17,,
+35,4,,17,,
+13,11,,3,,
+30,6,,23,,
+18,13,,12,,
+7,6,,4,,
+45,3,,11,,
+6,5,,20,,
+,,,,Total de unidades,168
+,,Media de unidades por pedido,,,12
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,23
+13,27.0,,,,
+37,4,,20,,
+14,9,,16,,
+15,1,,21,,
+12,12,,12,,
+16,8,,17,,
+13,2,,20,,
+9,17,,17,,
+9,9,,6,,
+23,15,,17,,
+26,13,,10,,
+25,2,,8,,
+3,6,,18,,
+,,,,Total de unidades,182
+,,Media de unidades por pedido,,,15
+,,Cantidad menor en un pedido,,,6
+,,Cantidad mayor en un pedido,,,21
+12,25.2,,,,
+19,0,,7,,
+47,12,,20,,
+16,15,,3,,
+46,1,,24,,
+0,5,,15,,
+46,17,,23,,
+2,13,,1,,
+31,3,,10,,
+0,11,,4,,
+20,9,,8,,
+44,4,,3,,
+9,11,,16,,
+22,2,,20,,
+37,14,,3,,
+,,,,Total de unidades,157
+,,Media de unidades por pedido,,,11
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,24
+11,13.2,,,,
+43,7,,15,,
+16,9,,10,,
+16,5,,15,,
+48,6,,17,,
+2,2,,9,,
+40,8,,4,,
+3,0,,21,,
+14,13,,23,,
+46,10,,24,,
+45,1,,6,,
+8,2,,8,,
+14,5,,8,,
+,,,,Total de unidades,160
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,4
+,,Cantidad mayor en un pedido,,,24
+10,30.6,,,,
+48,3,,2,,
+39,0,,12,,
+10,4,,24,,
+13,13,,20,,
+16,4,,24,,
+3,10,,17,,
+30,2,,18,,
+18,18,,1,,
+25,5,,5,,
+17,10,,12,,
+34,0,,22,,
+33,1,,21,,
+36,3,,8,,
+,,,,Total de unidades,186
+,,Media de unidades por pedido,,,14
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,24
+9,25.8,,,,
+41,5,,21,,
+7,9,,21,,
+41,8,,22,,
+22,0,,6,,
+20,7,,9,,
+5,1,,23,,
+12,18,,4,,
+5,0,,5,,
+21,0,,10,,
+4,4,,18,,
+14,1,,22,,
+45,8,,2,,
+,,,,Total de unidades,163
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,2
+,,Cantidad mayor en un pedido,,,23
+8,33.9,,,,
+20,5,,14,,
+17,9,,15,,
+21,7,,9,,
+46,8,,22,,
+18,17,,1,,
+23,16,,11,,
+33,5,,11,,
+17,16,,16,,
+34,9,,17,,
+26,15,,6,,
+38,13,,7,,
+16,7,,17,,
+47,6,,10,,
+5,12,,15,,
+31,4,,14,,
+,,,,Total de unidades,185
+,,Media de unidades por pedido,,,12
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,22
+7,12.6,,,,
+24,7,,13,,
+5,6,,9,,
+0,0,,12,,
+7,10,,1,,
+43,9,,23,,
+10,2,,9,,
+26,6,,23,,
+46,9,,4,,
+7,16,,12,,
+3,11,,11,,
+49,9,,24,,
+0,7,,10,,
+35,12,,23,,
+31,8,,5,,
+29,3,,21,,
+17,17,,5,,
+40,19,,23,,
+,,,,Total de unidades,228
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,24
+6,14.7,,,,
+12,2,,5,,
+43,3,,18,,
+9,5,,2,,
+23,8,,17,,
+45,7,,24,,
+28,3,,3,,
+49,13,,22,,
+17,7,,15,,
+40,10,,11,,
+49,7,,21,,
+48,0,,23,,
+37,21,,9,,
+40,13,,8,,
+8,7,,5,,
+,,,,Total de unidades,183
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,2
+,,Cantidad mayor en un pedido,,,24
+5,35.4,,,,
+29,7,,1,,
+35,6,,4,,
+13,20,,19,,
+22,4,,21,,
+48,8,,12,,
+10,9,,10,,
+10,5,,24,,
+41,0,,24,,
+46,0,,21,,
+25,0,,15,,
+33,11,,7,,
+17,18,,9,,
+24,8,,18,,
+38,6,,19,,
+,,,,Total de unidades,204
+,,Media de unidades por pedido,,,14
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,24
+4,19.2,,,,
+34,11,,17,,
+34,1,,3,,
+2,0,,18,,
+22,6,,11,,
+29,4,,7,,
+38,10,,18,,
+38,2,,8,,
+0,10,,8,,
+40,20,,16,,
+40,17,,20,,
+38,19,,7,,
+40,14,,24,,
+14,12,,20,,
+40,2,,5,,
+19,2,,22,,
+31,2,,3,,
+31,1,,23,,
+29,6,,16,,
+10,7,,13,,
+26,7,,16,,
+9,3,,14,,
+36,8,,21,,
+23,10,,18,,
+23,12,,17,,
+,,,,Total de unidades,345
+,,Media de unidades por pedido,,,14
+,,Cantidad menor en un pedido,,,3
+,,Cantidad mayor en un pedido,,,24
+3,38.1,,,,
+33,8,,15,,
+45,14,,16,,
+45,4,,14,,
+44,3,,14,,
+22,8,,2,,
+35,1,,9,,
+9,18,,12,,
+34,8,,1,,
+43,14,,18,,
+,,,,Total de unidades,101
+,,Media de unidades por pedido,,,11
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,18
+2,37.2,,,,
+5,7,,4,,
+7,7,,22,,
+43,2,,15,,
+7,4,,13,,
+9,7,,22,,
+18,9,,2,,
+,,,,Total de unidades,78
+,,Media de unidades por pedido,,,13
+,,Cantidad menor en un pedido,,,2
+,,Cantidad mayor en un pedido,,,22
+1,37.2,,,,
+31,5,,4,,
+0,3,,9,,
+32,2,,14,,
+0,12,,11,,
+26,9,,23,,
+3,1,,20,,
+46,11,,4,,
+24,11,,4,,
+38,12,,18,,
+24,14,,13,,
+37,5,,14,,
+18,8,,24,,
+13,1,,1,,
+37,10,,18,,
+36,2,,6,,
+47,3,,4,,
+12,0,,24,,
+13,14,,12,,
+,,,,Total de unidades,223
+,,Media de unidades por pedido,,,12
+,,Cantidad menor en un pedido,,,1
+,,Cantidad mayor en un pedido,,,24
+0,8.1,,,,
+31,10,,3,,
+16,14,,19,,
+0,8,,23,,
+13,15,,20,,
+12,3,,18,,
+12,16,,9,,
+11,2,,3,,
+1,1,,9,,
+2,15,,18,,
+11,6,,12,,
+16,3,,3,,
+24,12,,8,,
+3,3,,22,,
+13,18,,16,,
+35,8,,1,,
+,Total de unidades,184
+Media de unidades por pedido,,12
+Cantidad menor en un pedido,,1
+Cantidad mayor en un pedido,,23
